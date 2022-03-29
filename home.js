@@ -1,0 +1,1 @@
+console.log("This is the home file of js assignments")

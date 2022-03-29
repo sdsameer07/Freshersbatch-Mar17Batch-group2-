@@ -1,0 +1,1 @@
+console.log("This is indexfile of js assignments")
