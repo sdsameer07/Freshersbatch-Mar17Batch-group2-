@@ -1,2 +1,4 @@
 This is the readme file of our html assignment and in this html assignment we create few files 
 and make changes and update that files in the end into the master branch
+We have created and branch called html-assignments and in that we have created a two files 
+and performed changes on that and merged into the master file
